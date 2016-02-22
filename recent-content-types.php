@@ -1,4 +1,4 @@
-<!-- PHP to build index file on any Wordpress theme and show the recent content types as an index page. Similar to blog index page. 
+<!-- PHP to build index file on any Wordpress theme and show the recent content types as an index page. Similar to blog index page. -->
                     
            
                 <!--SCRIPT TO SHOW INDEX OF CREDIT ARTICLE TYPES STARTS HERE -->
